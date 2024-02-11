@@ -1,0 +1,14 @@
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.exe
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.deps.json
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.runtimeconfig.json
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.dll
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\bin\Debug\net8.0\Shape Area Calculator.pdb
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.AssemblyInfoInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.AssemblyInfo.cs
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.dll
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\refint\Shape Area Calculator.dll
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.pdb
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\Shape Area Calculator.genruntimeconfig.cache
+C:\Users\Dell\OneDrive\Desktop\C# Mini Projects\Shape Area Calculator\obj\Debug\net8.0\ref\Shape Area Calculator.dll
